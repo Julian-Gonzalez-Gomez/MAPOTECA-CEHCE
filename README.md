@@ -2,7 +2,6 @@
 \---Global
     +---Continentes
     |   +---Africa
-    |   |   +---Australia
     |   |   +---Peninsula Arabe
     |   |   |       Arabia.gpkg
     |   |   |
